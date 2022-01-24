@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8868da0a8CF8E28e683366368f6912A2005b1Cf5",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0x8868da0a8cf8e28e683366368f6912a2005b1cf5",
+  "NETWORK": {
+    "NAME": "SmartBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "WojakNFT",
+  "SYMBOL": "WOJAKNFT",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x8868da0a8cf8e28e683366368f6912a2005b1cf5",
+  "SHOW_BACKGROUND": true
+}
